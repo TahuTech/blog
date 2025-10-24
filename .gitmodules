@@ -1,0 +1,4 @@
+[submodule "blog/public"]
+	path = blog/public
+	url = git@github.com:TahuTech/tahutech.github.io.git
+	branch = main
