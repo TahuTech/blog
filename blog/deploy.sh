@@ -18,7 +18,7 @@ fi
 git commit -m "$msg"
 
 # Push atau upload ke Github
-git push origin master
+git push
 
 # Balik ke direktori sebelumnya
 cd ..
